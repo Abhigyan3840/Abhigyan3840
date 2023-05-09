@@ -8,6 +8,7 @@
 - LinkedIn: Abhigyan Aditya
 
 Abhigyan Aditya - B.Tech CSE at KIIT India
+
 Hello! My name is Abhigyan Aditya and I am currently pursuing my B.Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology (KIIT), India.
 
 About Me
