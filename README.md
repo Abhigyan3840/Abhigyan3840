@@ -15,6 +15,7 @@ About Me
 I am a tech enthusiast who is always curious to learn new things and explore different technologies. I am passionate about software development, machine learning, and artificial intelligence. I also have a keen interest in competitive programming and love to solve algorithmic problems.
 
 Education
+
 Matriculation from Kendriya Vidyalaya Ballygunge (Kolkata) affiliated to CBSE Board (2018)
 Intermediate from PDPS (Patna) affiliated to CBSE Board (2021)
 B.Tech in Computer Science and Engineering at KIIT University (2021-2025)
