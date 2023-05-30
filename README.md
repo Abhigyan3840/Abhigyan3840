@@ -2,7 +2,7 @@
 -  I am currently pursuing my B.Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology (KIIT), India.
 - 👀 I am a tech enthusiast who is always curious to learn new things and explore different technologies. I am passionate about software development, machine learning, and artificial intelligence. I also have a keen interest in competitive programming and love to solve algorithmic problems.
 - 🌱 I’m currently learning Computer Architecture and Operating Systems.
-- 💞️ I’m looking to collaborate on various 
+- 💞️ I’m looking to collaborate on various projects/Research
 - 📫 How to reach me
 - Email: Samuelr94354@gmail.com
 - LinkedIn: Abhigyan Aditya
